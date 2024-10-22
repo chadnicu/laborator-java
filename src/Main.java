@@ -45,5 +45,6 @@ public class Main {
         Proces.Inventeaza();
         Proces.FiiCreativ();
         Proces.VadSens();
+        Proces.MetodaDeNota10();
     }
 }
